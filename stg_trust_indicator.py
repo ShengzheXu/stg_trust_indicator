@@ -291,9 +291,7 @@ def record_attention_metrics(attn_outputs, tensor_handler, nmse, mse, d_0_8, exp
             "Best K": best_k,
             "Silhouette Score": best_sil,
             "Inter-Cluster Cosine": inter_cos,
-            "Inter-Cluster Cosine (No Cluster)": inter_cos_nocluster,
             "NMSE": nmse.item() if isinstance(nmse, torch.Tensor) else nmse,
-            "MSE": mse.item() if isinstance(mse, torch.Tensor) else mse,
             "d_0_8": d_0_8,
         })
 
