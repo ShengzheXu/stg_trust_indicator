@@ -1,4 +1,4 @@
-# When can isotropy help adapt LLMs' next word prediction to numerical domains?
+# Is Isotropy a Good Proxy for Generalization in Time Series Forecasting with Transformers?
 
 ## 1. Preparation
 
