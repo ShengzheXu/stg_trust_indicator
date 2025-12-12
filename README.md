@@ -94,6 +94,13 @@ If you found our work useful, please cite our work.
 
 ```
 @article{
-
+shelim2025is,
+title={Is isotropy a good proxy for generalization in time series forecasting with transformers?},
+author={Rashed Shelim and Shengzhe Xu and Walid Saad and Naren Ramakrishnan},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2025},
+url={https://openreview.net/forum?id=iUtDYVQzFq},
+note={}
 }
 ```
